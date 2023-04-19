@@ -10,7 +10,7 @@ API_KEY = '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'
 MODEL = 'text-davinci-003'
 
 # Telegram токен бота
-BOT_TOKEN = '5117734670:AAEHIuwpvczFayX96aQ5KpbwfDZIMtQVN6w'
+BOT_TOKEN = ''
 # определяем характер телеграм бота
 BOT_PERSONALITY = 'Answer in a funny tone, '
 
